@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to C2C 
 
-You can use the [editor on GitHub](https://github.com/SLdevilX/c2c/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the This bot to link Telegaram channels ![tg](https://telegra.ph/file/1eca514b5e6202b1d92b3.jpg) to use  touch this guide's
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+```help
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ඔන්න අලුත් බොට් කෙනෙක් ගෙනාවා
+           Channel Auto post bot
+චැනල් දෙකතුනක් කරන හෝ යාලුවෙකුගේ චැනල් එකක පෝස්ට් ඔයාගේ චැනල් එකට ලේසියෙන්ම ස්වයංක්‍රීයව  ගෙන්න ගන්න මේ බොට් ර්ක හරහා පුලුවන් .
 
-```markdown
-Syntax highlighted code block
+යොදාගැනීම
+# තෝරාගත් ප්‍රධාන චැනලයකට එක් කරන  අලුත් පෝස්ට් ස්වයක්‍රීයව තවත් චැනලයකට හෝ කීපයකට පෝස්ට් කිරීමට 
+ # නිදහස් භාවිතය  සදහා  ප්‍රදාන චැනලයක් හා එක් පිටවුම් චැනලයක් පමනක් ලබාදී ඇත ඔබට තවත් චැනල එක් කරගැනීමට අවශ්‍ය නම් 
+⧏ 𝒍𝒂𝒔𝒊𝒚𝒂 / ⧐ අමතන්න.
 
-# Header 1
-## Header 2
-### Header 3
+හෙරෝකු වල ඩිප්ලෝයි කිරීමට
+▪️ හෙරෝකු තුල අලුත් ඇප් එකක් සාදන්න 
+(Create new app)
+▪️ ඇප් සෙටිංස් වලින් වේරියේබල්ස් එකතු කරන්න
+(Add env variables )
+▪️ ලබාදී ඇති ලිංකුව හරහා ගොස් කේත ගොනුවල පිටපතක්  ඔබගේ Github ගිනුමට එකතු කරගන්න
+(Fork the repository )
 
-- Bulleted
-- List
+ https://github.com/SLdevilX/c2c
 
-1. Numbered
-2. List
+▪️පසුව හෙරෝකු ඇප් ඩිප්ලෝයිමන්ට් හරහා ඔබේ Github කේත ගොනුව තෝරා දී ඩිප්ලෝයි කරන්න.
+(Goto App deployment section & select your repository  and Deploy it)
+▪️අවසානයේ හෙරෝකු රිසෝසස් කියාත්මක කරන්න
+(App resources  enable and enjoy)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SLdevilX/c2c/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
