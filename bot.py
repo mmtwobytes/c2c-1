@@ -37,7 +37,8 @@ async def helpp(event):
 async def _(event): 
     if not event.is_private:
         try:
-            await event.client.send_message(tochnl,tochnl2 event.message)
+            await event.client.send_message(tochnl, event.message),
+            await event.client.send_message(tochnl2, event.message)
         except:
             print("TO_CHANNEL ID is wrong or I can't send messages there (make me admin).")
 
